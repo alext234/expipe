@@ -5,7 +5,7 @@
 // Package testing is a test suit for recorders. They should provide an object
 // that implements the Constructor interface then run:
 //
-//    import rt "github.com/arsham/expipe/recorder/testing"
+//    import rt "github.com/alext234/expipe/recorder/testing"
 //    ....
 //    type Construct struct {
 //        *rt.BaseConstruct

@@ -11,9 +11,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/tools"
-	"github.com/arsham/expipe/tools/config"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/tools"
+	"github.com/alext234/expipe/tools/config"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

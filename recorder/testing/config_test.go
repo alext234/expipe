@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	rt "github.com/arsham/expipe/recorder/testing"
-	"github.com/arsham/expipe/tools"
+	rt "github.com/alext234/expipe/recorder/testing"
+	"github.com/alext234/expipe/tools"
 )
 
 func TestConfigRecorder(t *testing.T) {

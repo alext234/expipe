@@ -10,8 +10,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/arsham/expipe/recorder"
-	rt "github.com/arsham/expipe/recorder/testing"
+	"github.com/alext234/expipe/recorder"
+	rt "github.com/alext234/expipe/recorder/testing"
 	"github.com/pkg/errors"
 )
 

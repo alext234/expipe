@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/arsham/expipe/internal/app"
+	"github.com/alext234/expipe/internal/app"
 )
 
 func main() {

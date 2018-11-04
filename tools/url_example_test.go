@@ -7,7 +7,7 @@ package tools_test
 import (
 	"fmt"
 
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/tools"
 )
 
 // This example shows how to sanitise a URL.

@@ -1,4 +1,4 @@
-package: github.com/arsham/expipe
+package: github.com/alext234/expipe
 import:
 - package: github.com/antonholmquist/jason
 - package: github.com/asaskevich/govalidator

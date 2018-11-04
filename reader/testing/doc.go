@@ -5,7 +5,7 @@
 // Package testing is a test suit for readers. They should provide an object
 // that implements the Constructor interface then run:
 //
-//    import rt "github.com/arsham/expipe/reader/testing"
+//    import rt "github.com/alext234/expipe/reader/testing"
 //    ....
 //    type Construct struct {
 //        *rt.BaseConstruct

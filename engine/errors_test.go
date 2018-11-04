@@ -11,8 +11,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/arsham/expipe/engine"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/engine"
+	"github.com/alext234/expipe/tools/token"
 )
 
 func TestPingError(t *testing.T) {

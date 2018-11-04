@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/arsham/expipe/datatype"
+	"github.com/alext234/expipe/datatype"
 )
 
 func TestFloatInSlice(t *testing.T) {

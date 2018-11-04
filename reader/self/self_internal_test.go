@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/tools"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/tools"
+	"github.com/alext234/expipe/tools/token"
 )
 
 // The other test goes through a normal path, we need to test the actual path.

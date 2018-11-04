@@ -11,9 +11,9 @@ import (
 	"net/http/httptest"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/recorder/testing"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/recorder/testing"
 )
 
 // This example shows when a record job is issued, the recorder hits the

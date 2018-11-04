@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools/token"
 	"github.com/pkg/errors"
 )
 

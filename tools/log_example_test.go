@@ -5,7 +5,7 @@
 package tools_test
 
 import (
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/tools"
 )
 
 // To get a logger with info level.

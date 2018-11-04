@@ -8,9 +8,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools"
-	"github.com/arsham/expipe/tools/config"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools"
+	"github.com/alext234/expipe/tools/config"
 	"github.com/pkg/errors"
 )
 

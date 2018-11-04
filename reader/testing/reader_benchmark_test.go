@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/tools"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/tools"
+	"github.com/alext234/expipe/tools/token"
 )
 
 func BenchmarkReader(b *testing.B) {

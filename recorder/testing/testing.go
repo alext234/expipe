@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools"
 )
 
 // Constructor is an interface for setting up an object for testing.

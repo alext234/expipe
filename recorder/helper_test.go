@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/recorder"
-	recorder_testing "github.com/arsham/expipe/recorder/testing"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/recorder"
+	recorder_testing "github.com/alext234/expipe/recorder/testing"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 )
 

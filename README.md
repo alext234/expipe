@@ -1,11 +1,11 @@
 # Expipe
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GoDoc](https://godoc.org/github.com/arsham/expipe?status.svg)](http://godoc.org/github.com/arsham/expipe)
-[![Build Status](https://travis-ci.org/arsham/expipe.svg?branch=master)](https://travis-ci.org/arsham/expipe)
-[![Coverage Status](https://codecov.io/gh/arsham/expipe/branch/master/graph/badge.svg)](https://codecov.io/gh/arsham/expipe)
-[![Go Report Card](https://goreportcard.com/badge/github.com/arsham/expipe)](https://goreportcard.com/report/github.com/arsham/expipe)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6cc048fae4ba4129b05226308a0bd7e9)](https://www.codacy.com/app/arsham/expipe?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arsham/expipe&amp;utm_campaign=Badge_Grade)
+[![GoDoc](https://godoc.org/github.com/alext234/expipe?status.svg)](http://godoc.org/github.com/alext234/expipe)
+[![Build Status](https://travis-ci.org/alext234/expipe.svg?branch=master)](https://travis-ci.org/alext234/expipe)
+[![Coverage Status](https://codecov.io/gh/alext234/expipe/branch/master/graph/badge.svg)](https://codecov.io/gh/alext234/expipe)
+[![Go Report Card](https://goreportcard.com/badge/github.com/alext234/expipe)](https://goreportcard.com/report/github.com/alext234/expipe)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6cc048fae4ba4129b05226308a0bd7e9)](https://www.codacy.com/app/alext234/expipe?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alext234/expipe&amp;utm_campaign=Badge_Grade)
 
 Expipe can record your application's `metrics` in [ElasticSearch][elasticsearch]
 and you can view them with [kibana][kibana]. It can read from any applications
@@ -54,8 +54,8 @@ I will provide a docker image soon, but for now it needs to be installed. You
 need golang >= 1.7 and [glide][glide] installed. Simply do:
 
 ```bash
-go get github.com/arsham/expipe
-cd $GOPATH/src/github.com/arsham/expipe
+go get github.com/alext234/expipe
+cd $GOPATH/src/github.com/alext234/expipe
 glide install
 go install
 ```

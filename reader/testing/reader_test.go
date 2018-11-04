@@ -9,9 +9,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/arsham/expipe/reader"
-	rt "github.com/arsham/expipe/reader/testing"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/reader"
+	rt "github.com/alext234/expipe/reader/testing"
+	"github.com/alext234/expipe/tools/token"
 	"github.com/pkg/errors"
 )
 

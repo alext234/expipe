@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/arsham/expipe/recorder"
+	"github.com/alext234/expipe/recorder"
 	"github.com/pkg/errors"
 )
 

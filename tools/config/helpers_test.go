@@ -11,7 +11,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/tools"
 )
 
 type FixtureTestCase struct {

@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/reader"
-	rt "github.com/arsham/expipe/reader/testing"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/reader"
+	rt "github.com/alext234/expipe/reader/testing"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 )
 

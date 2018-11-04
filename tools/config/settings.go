@@ -9,13 +9,13 @@ package config
 import (
 	"strings"
 
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/recorder"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/recorder"
 
-	"github.com/arsham/expipe/reader/expvar"
-	"github.com/arsham/expipe/reader/self"
-	"github.com/arsham/expipe/recorder/elasticsearch"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/reader/expvar"
+	"github.com/alext234/expipe/reader/self"
+	"github.com/alext234/expipe/recorder/elasticsearch"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

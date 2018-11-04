@@ -18,8 +18,8 @@ package reader
 import (
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/tools/token"
 )
 
 // DataReader receives job requests to read from the target. It returns an error

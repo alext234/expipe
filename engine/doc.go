@@ -13,7 +13,7 @@
 //
 // Please refer to golang's expvar documentation for more information.
 // Installation guides can be found on github page:
-// https://github.com/arsham/expipe
+// https://github.com/alext234/expipe
 //
 // At the heart of this package, there is Engine. It acts like a glue between
 // multiple Readers and a Recorder. Messages are transferred in a package called
@@ -154,7 +154,7 @@
 //    go test ./readers
 //
 // To show the coverage, use this gist:
-// https://gist.github.com/arsham/f45f7e7eea7e18796bc1ed5ced9f9f4a. Then run:
+// https://gist.github.com/alext234/f45f7e7eea7e18796bc1ed5ced9f9f4a. Then run:
 //
 //   gocover
 //

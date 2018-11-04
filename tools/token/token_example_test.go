@@ -7,7 +7,7 @@ package token_test
 import (
 	"context"
 
-	"github.com/arsham/expipe/tools/token"
+	"github.com/alext234/expipe/tools/token"
 )
 
 func ExampleContext_new() {

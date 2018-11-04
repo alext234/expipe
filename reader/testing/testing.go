@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/tools"
 )
 
 // Constructor is an interface for setting up an object for testing. TestServer

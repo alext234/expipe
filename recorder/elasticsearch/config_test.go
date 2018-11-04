@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/recorder/elasticsearch"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/recorder/elasticsearch"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

@@ -7,7 +7,7 @@ package testing_test
 import (
 	"testing"
 
-	rt "github.com/arsham/expipe/recorder/testing"
+	rt "github.com/alext234/expipe/recorder/testing"
 )
 
 func TestGetRecorderGoodURL(t *testing.T) {

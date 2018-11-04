@@ -164,7 +164,7 @@ go test ./readers/...
 
 ## Coverage
 
-Use this [gist](https://gist.github.com/arsham/f45f7e7eea7e18796bc1ed5ced9f9f4a).
+Use this [gist](https://gist.github.com/alext234/f45f7e7eea7e18796bc1ed5ced9f9f4a).
 Then run:
 
 ```bash

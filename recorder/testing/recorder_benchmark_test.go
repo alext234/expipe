@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools"
 )
 
 func BenchmarkRecorder(b *testing.B) {

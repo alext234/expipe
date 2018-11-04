@@ -7,9 +7,9 @@ package reader_test
 import (
 	"fmt"
 
-	. "github.com/arsham/expipe/reader"
-	reader "github.com/arsham/expipe/reader/testing"
-	"github.com/arsham/expipe/tools"
+	. "github.com/alext234/expipe/reader"
+	reader "github.com/alext234/expipe/reader/testing"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 )
 

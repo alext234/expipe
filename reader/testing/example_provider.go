@@ -7,8 +7,8 @@ package testing
 import (
 	"time"
 
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/tools"
 )
 
 // GetReader provides a MockReader for using in the example.

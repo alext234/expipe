@@ -16,14 +16,14 @@ import (
 	"testing"
 	"time"
 
-	rdt "github.com/arsham/expipe/reader/testing"
-	rct "github.com/arsham/expipe/recorder/testing"
+	rdt "github.com/alext234/expipe/reader/testing"
+	rct "github.com/alext234/expipe/recorder/testing"
 
-	"github.com/arsham/expipe/internal/app"
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools"
-	"github.com/arsham/expipe/tools/config"
+	"github.com/alext234/expipe/internal/app"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools"
+	"github.com/alext234/expipe/tools/config"
 	flags "github.com/jessevdk/go-flags"
 	"github.com/pkg/errors"
 )

@@ -7,8 +7,8 @@ package testing
 import (
 	"time"
 
-	"github.com/arsham/expipe/recorder"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/recorder"
+	"github.com/alext234/expipe/tools"
 )
 
 // GetRecorder provides a SimpleRecorder for using in the example.

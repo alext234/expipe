@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
-	"github.com/arsham/expipe/reader/expvar"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/datatype"
+	"github.com/alext234/expipe/reader/expvar"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

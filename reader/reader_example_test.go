@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	reader "github.com/arsham/expipe/reader/testing"
-	"github.com/arsham/expipe/tools/token"
+	reader "github.com/alext234/expipe/reader/testing"
+	"github.com/alext234/expipe/tools/token"
 )
 
 // This example shows the reader hits the endpoint when the Read method is

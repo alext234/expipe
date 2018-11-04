@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/datatype"
+	"github.com/alext234/expipe/datatype"
 )
 
 var runes = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")

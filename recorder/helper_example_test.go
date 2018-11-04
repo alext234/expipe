@@ -7,9 +7,9 @@ package recorder_test
 import (
 	"fmt"
 
-	. "github.com/arsham/expipe/recorder"
-	recorder "github.com/arsham/expipe/recorder/testing"
-	"github.com/arsham/expipe/tools"
+	. "github.com/alext234/expipe/recorder"
+	recorder "github.com/alext234/expipe/recorder/testing"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 )
 

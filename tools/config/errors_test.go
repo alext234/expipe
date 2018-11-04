@@ -10,7 +10,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/arsham/expipe/tools/config"
+	"github.com/alext234/expipe/tools/config"
 )
 
 func TestErrorMessageNils(t *testing.T) {

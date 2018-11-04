@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/reader"
-	"github.com/arsham/expipe/reader/self"
-	rt "github.com/arsham/expipe/reader/testing"
+	"github.com/alext234/expipe/reader"
+	"github.com/alext234/expipe/reader/self"
+	rt "github.com/alext234/expipe/reader/testing"
 )
 
 func getTestServer() *httptest.Server {

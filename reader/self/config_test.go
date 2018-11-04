@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/arsham/expipe/reader/self"
-	"github.com/arsham/expipe/tools"
+	"github.com/alext234/expipe/reader/self"
+	"github.com/alext234/expipe/tools"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )
