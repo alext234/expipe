@@ -82,6 +82,7 @@ func (r *Recorder) Ping() error {
 		elastic.SetURL(r.endpoint),
 		elastic.SetErrorLog(r.log),
 		elastic.SetHealthcheckTimeoutStartup(r.timeout),
+		elastic.SetSniff(false),
 		elastic.SetSnifferTimeout(r.timeout),
 		elastic.SetHealthcheckTimeout(r.timeout),
 		elastic.SetSnifferTimeoutStartup(r.timeout),
